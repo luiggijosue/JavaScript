@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: blue;
+  margin-bottom: 50px;
+}
+p {
+  color: red;
+}
+.suma {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  border: 2px solid black;
+  width: 250px;
+  margin-bottom: 20px;
+}
+.frase {
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+  width: 250px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+}
+.total {
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+  width: 250px;
+  border: 2px solid black;
+}
