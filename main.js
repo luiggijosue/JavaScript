@@ -33,7 +33,7 @@ let total =
   precioCamiseta * camisetas +
   precioPantalon * pantalones +
   precioZapatos * zapatos;
-
+// ESTO ES LO QUE SE VERA EN LA WEB
 document.getElementById("total").innerHTML =
   "Resumen de tu Compra: <br><br>" +
   "Camisetas: " +
